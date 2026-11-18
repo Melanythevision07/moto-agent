@@ -1,0 +1,7 @@
+groq
+pydantic
+python-dotenv
+discord.py
+streamlit
+plotly
+pandas
